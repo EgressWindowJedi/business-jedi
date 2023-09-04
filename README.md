@@ -1,3 +1,7 @@
+Fork of #  Tanam to see whats under the hood.  
+
+Original repo below:
+
 # Tanam 🌱 Plug-n-play CMS for websites on Firebase
 ![License](https://img.shields.io/npm/l/tanam.svg)
 ![NPM version](https://img.shields.io/npm/v/tanam.svg)

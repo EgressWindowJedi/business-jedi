@@ -1,4 +1,4 @@
-Fork of #  Tanam to see whats under the hood.  
+Fork of [#Tanam](https://firebaseopensource.com/projects/oddbit/tanam/) to see whats under the hood.  
 
 Original repo below:
 
